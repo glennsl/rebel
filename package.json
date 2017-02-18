@@ -9,7 +9,7 @@
     "@opam-alpha/yojson": "*",
     "nopam": "yunxing/nopam",
     "ocamlBetterErrors": "0.0.10",
-    "reason": "facebook/reason#1.7.4"
+    "reason": "facebook/reason#1.8.0"
   },
   "devDependencies": {},
   "exportedEnvVars": {
