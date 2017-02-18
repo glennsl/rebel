@@ -7,9 +7,9 @@
     "@opam-alpha/jenga": "*",
     "@opam-alpha/ocamlfind": "*",
     "@opam-alpha/yojson": "*",
-    "nopam": "https://github.com/yunxing/nopam.git",
+    "nopam": "yunxing/nopam",
     "ocamlBetterErrors": "0.0.10",
-    "reason": "https://github.com/facebook/reason.git"
+    "reason": "facebook/reason#1.8.0"
   },
   "devDependencies": {},
   "exportedEnvVars": {
